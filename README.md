@@ -1,4 +1,4 @@
-# Hello, I'm [Ajit Kumar Mandal] 👋
+# Hello, I'm Ajit Kumar Mandal 👋
 
 I am a passionate Java developer with over 2 years of experience in creating robust and scalable applications. My journey in software development has been driven by a curiosity to explore new technologies and a commitment to delivering high-quality solutions.
 
@@ -36,7 +36,7 @@ I am passionate about [specific area of interest, e.g., backend development, clo
 
 Looking forward to connecting with fellow developers and contributing to the vibrant tech community!
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+!Ajit1702(https://github-readme-stats.vercel.app/api?username=Ajit1702&show_icons=true&theme=dark)
 
 
 <!---
